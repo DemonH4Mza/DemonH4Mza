@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DemonH4Mza
+- 👋 Hi, I’m @H4MzaSheib4
 - 👀 I’m interested in game dev.
 - 🌱 I’m currently learning game dev .
 - 💞️ I’m looking to collaborate on game dev.
